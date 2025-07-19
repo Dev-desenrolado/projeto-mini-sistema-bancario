@@ -16,11 +16,11 @@ O sistema realiza 3 tipos de operações : depósito, saque e extrato. Tornando-
  Isso é a mais pura verdade, sempre podemos tirar proveito de uma simples atividade, podemos sempre aprender com nossos erros.
 
 ## Tópicos aprofundados :
-- [x] Operadores aritméticos
-- [x] Operadores de associação
-- [x] Operadores de comparação
-- [x] Operadores lógicos
-- [x] Indentação e blocos
-- [x] Estruturas condicionais
-- [x] Looping de repetição
-- [x] Strings e Fatiamento
+- ✅ Operadores aritméticos
+- ✅ Operadores de associação
+- ✅ Operadores de comparação
+- ✅ Operadores lógicos
+- ✅ Indentação e blocos
+- ✅ Estruturas condicionais
+- ✅ Looping de repetição
+- ✅ Strings e Fatiamento
