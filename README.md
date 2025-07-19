@@ -3,8 +3,6 @@
 #### Este projeto consolida os conhecimento básicos e introdutórios na linguagem Python.
 O sistema realiza 3 tipos de operações : depósito, saque e extrato. Tornando-se assim um simples sistema bancário.
 
-----------------
-
 ## O sistema apresenta as seguintes regras de operação :
 - Limite de saque diário 3 ;
 - Podemos realizar apenas R$ 500 por operação ;
