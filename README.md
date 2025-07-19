@@ -2,6 +2,7 @@
 
 
 #### Este projeto consolida os conhecimento básicos e introdutórios na linguagem Python.
+O sistema realiza 3 tipos de operações : depósito, saque e extrato. Tornando-se assim um simples sistema bancário.
 
 ----------------
 
