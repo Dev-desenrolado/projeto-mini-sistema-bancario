@@ -14,7 +14,7 @@ O sistema realiza 3 tipos de operações : depósito, saque e extrato. Tornando-
 - Valor para depósito positivo.
 
 > As vezes menos é mais, confeccionar um código mais simples e que atende o que é requisitado é mais importante do que ter um código sofisticado e complexo, no final os dois atenderão, porém o mais simples e objetivo é sempre a melhor alternativa.
-----
+> 
  Isso é a mais pura verdade, sempre podemos tirar proveito de uma simples atividade, podemos sempre aprender com nossos erros.
 
 ## Tópicos aprofundados :
